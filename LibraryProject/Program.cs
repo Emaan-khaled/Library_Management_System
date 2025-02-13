@@ -11,12 +11,7 @@ namespace LibraryManagementSystem
             User Currentuser = null;
             RegistrationSystem registrationSystem = new RegistrationSystem();
             Library library = new Library();
-            library.AddBook(new Book(0, "lion", "ahmed"));
-            library.AddBook(new Book(0, "learn how to learn", "esraa"));
-            library.AddBook(new Book(0, "dog", "ali"));
-            library.AddBook(new Book(0, "flower", "rahma"));
-            library.AddBook(new Book(0, "tree", "mona"));
-
+           
             
                 /*
                  * Registration System
