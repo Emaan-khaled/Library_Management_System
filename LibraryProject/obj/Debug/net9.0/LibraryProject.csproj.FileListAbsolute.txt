@@ -1,0 +1,14 @@
+D:\CSharp\LibraryProject\LibraryProject\obj\Debug\net9.0\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\LibraryProject\LibraryProject\obj\Debug\net9.0\LibraryProject.AssemblyInfoInputs.cache
+D:\CSharp\LibraryProject\LibraryProject\obj\Debug\net9.0\LibraryProject.AssemblyInfo.cs
+D:\CSharp\LibraryProject\LibraryProject\obj\Debug\net9.0\LibraryProject.csproj.CoreCompileInputs.cache
+D:\CSharp\LibraryProject\LibraryProject\bin\Debug\net9.0\LibraryProject.exe
+D:\CSharp\LibraryProject\LibraryProject\bin\Debug\net9.0\LibraryProject.deps.json
+D:\CSharp\LibraryProject\LibraryProject\bin\Debug\net9.0\LibraryProject.runtimeconfig.json
+D:\CSharp\LibraryProject\LibraryProject\bin\Debug\net9.0\LibraryProject.dll
+D:\CSharp\LibraryProject\LibraryProject\bin\Debug\net9.0\LibraryProject.pdb
+D:\CSharp\LibraryProject\LibraryProject\obj\Debug\net9.0\LibraryProject.dll
+D:\CSharp\LibraryProject\LibraryProject\obj\Debug\net9.0\refint\LibraryProject.dll
+D:\CSharp\LibraryProject\LibraryProject\obj\Debug\net9.0\LibraryProject.pdb
+D:\CSharp\LibraryProject\LibraryProject\obj\Debug\net9.0\LibraryProject.genruntimeconfig.cache
+D:\CSharp\LibraryProject\LibraryProject\obj\Debug\net9.0\ref\LibraryProject.dll
